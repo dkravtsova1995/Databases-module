@@ -106,7 +106,7 @@
 
 email                    signup
 
-daria@comcast.com       2019-04-21T00:00:00.00Z
+daria@comcast.com       2018-05-21T00:00:00.00Z
 
 
 • The user ID for the user with email 'aleesia.algorithm@uw.edu'.
